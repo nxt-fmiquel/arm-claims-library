@@ -1,0 +1,19 @@
+{
+  "name": "@nexthink/arm-claims-library",
+  "version": "1.2.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxt-fmiquel/arm-claims-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nxt-fmiquel/arm-claims-library/issues"
+  },
+  "homepage": "https://github.com/nxt-fmiquel/arm-claims-library#readme",
+  "description": ""
+}
